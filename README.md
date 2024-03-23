@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shilinawrez
+- 👋 Hi, I’m @shilinawrez and I am a 🌟 Tunisian Computer-Science Engineer 🚀💻
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Web Development Projects
